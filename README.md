@@ -39,7 +39,6 @@ standard of the house and price per month both in one place.
  ## contribution
 
  Anyone is permited to contribute to the
- 
   project by submiting pull request.
 
   ## license
